@@ -1,0 +1,44 @@
+body{
+  background-image: url("../img/beach.jpg");
+}
+
+.navbar{
+	min-height: 30px !important;
+	margin-bottom: 0;
+	border : 0px;
+  border-radius: 0;
+  background-color: transparent;
+} 
+
+
+
+.navbar-nav > li > a, .navbar-brand{
+	padding-top: 6px !important;
+	padding-bottom: 0 !important;
+
+	height: 30px;
+
+}
+.panel{
+  border-radius: 0;
+  background-color: #000000;
+  opacity: 0.5;
+}
+
+.panel-heading{
+  padding: 10px 0px;
+}
+
+#main{
+  margin-top: 40px;
+}
+
+/*.mycol{
+  padding-right: 0px;
+  padding-left: 0px;
+}*/
+
+.myformgroup{
+margin-bottom: 0px;
+
+}
